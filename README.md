@@ -11,6 +11,8 @@ This tool converts sound files exported from the GIANTS Loop Synthesis Tool 9.0 
 
 > This tool is a command line tool. If you have no idea how to use a command line tool, then watch this [excellent YouTube playlist](https://youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu) first, and come back later.
 
+Fist, download the tool from the [Releases page](https://github.com/Paint-a-Farm/glsconvert/releases/latest) in this repo.
+
 You can run this tool from the command line as follows:
 
 ```bash
